@@ -1,0 +1,17 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 03:43:36 UTC 2020
+https\://repository.cloudera.com/content/repositories/third-party/.lastUpdated=1602992616209
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.lastUpdated=1602992615651
+https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven/.error=Could not transfer artifact com.sun.jersey\:jersey-json\:pom\:1.9 from/to impala.cdp.repo (https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven)\: Access denied to\: https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven/com/sun/jersey/jersey-json/1.9/jersey-json-1.9.pom , ReasonPhrase\:Forbidden.
+https\://mvnrepository.com/artifact/org.glassfish/javax.el/.error=Could not transfer artifact com.sun.jersey\:jersey-json\:pom\:1.9 from/to glassfish-repo-archive.repo (https\://mvnrepository.com/artifact/org.glassfish/javax.el/)\: Access denied to\: https\://mvnrepository.com/artifact/org.glassfish/javax.el/com/sun/jersey/jersey-json/1.9/jersey-json-1.9.pom , ReasonPhrase\:Forbidden.
+file\:///root/impala-3.4/toolchain/kudu-4ed0dbbd1/java/repository/.error=
+https\://repository.cloudera.com/content/repositories/releases/.error=
+https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/.error=Could not transfer artifact com.sun.jersey\:jersey-json\:pom\:1.9 from/to impala.cdh.repo (https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven)\: Access denied to\: https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/com/sun/jersey/jersey-json/1.9/jersey-json-1.9.pom , ReasonPhrase\:Forbidden.
+https\://repository.cloudera.com/content/repositories/releases/.lastUpdated=1602992615708
+@default-impala.cdh.repo-https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/.lastUpdated=1602992616152
+@default-impala.cdp.repo-https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven/.lastUpdated=1602992615927
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1602992616238
+file\:///root/impala-3.4/toolchain/kudu-4ed0dbbd1/java/repository/.lastUpdated=1602992616153
+@default-glassfish-repo-archive.repo-https\://mvnrepository.com/artifact/org.glassfish/javax.el/.lastUpdated=1602992615593
+https\://repository.cloudera.com/content/repositories/third-party/.error=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 11:49:10 UTC 2020
+impala-frontend-0.1-SNAPSHOT.pom>=
+impala-frontend-0.1-SNAPSHOT-tests.jar>=
+impala-frontend-0.1-SNAPSHOT.jar>=

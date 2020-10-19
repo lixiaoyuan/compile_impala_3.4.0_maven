@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 08:19:51 UTC 2020
+file\:///root/impala-3.4/toolchain/kudu-4ed0dbbd1/java/repository/.lastUpdated=1603009191757
+https\://maven.aliyun.com/repository/spring/.lastUpdated=1603009191468
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.error=
+https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/.error=Could not transfer artifact org.apache.kudu\:kudu-client\:pom\:1.12.0-SNAPSHOT from/to impala.cdh.repo (https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven)\: Access denied to\: https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/org/apache/kudu/kudu-client/1.12.0-SNAPSHOT/kudu-client-1.12.0-SNAPSHOT.pom , ReasonPhrase\:Forbidden.
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.lastUpdated=1603009191527
+https\://maven.aliyun.com/repository/spring/.error=
+@default-impala.cdh.repo-https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/.lastUpdated=1603009191750

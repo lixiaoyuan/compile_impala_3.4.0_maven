@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 08:42:34 UTC 2020
+net.sourceforge.czt.eclipse.zeves.feature-1.0.0-SNAPSHOT-p2metadata.xml>=
+net.sourceforge.czt.eclipse.zeves.feature-1.0.0-SNAPSHOT-p2artifacts.xml>=
+net.sourceforge.czt.eclipse.zeves.feature-1.0.0-SNAPSHOT.jar>=
+net.sourceforge.czt.eclipse.zeves.feature-1.0.0-SNAPSHOT.pom>=

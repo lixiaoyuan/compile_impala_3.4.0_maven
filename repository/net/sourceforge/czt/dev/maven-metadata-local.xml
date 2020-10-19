@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>CZT GnAST Maven Plugin</name>
+      <prefix>gnast</prefix>
+      <artifactId>gnast-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>CZT Parser Generator Maven Plugin</name>
+      <prefix>parsergen</prefix>
+      <artifactId>parsergen-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Java CUP Maven Plugin</name>
+      <prefix>cup</prefix>
+      <artifactId>cup-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

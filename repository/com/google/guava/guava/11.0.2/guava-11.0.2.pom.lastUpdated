@@ -1,0 +1,17 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 03:41:41 UTC 2020
+https\://repository.cloudera.com/content/repositories/third-party/.lastUpdated=1602992501432
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.lastUpdated=1602992501026
+https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven/.error=Could not transfer artifact com.google.guava\:guava\:pom\:11.0.2 from/to impala.cdp.repo (https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven)\: Access denied to\: https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven/com/google/guava/guava/11.0.2/guava-11.0.2.pom , ReasonPhrase\:Forbidden.
+https\://mvnrepository.com/artifact/org.glassfish/javax.el/.error=Could not transfer artifact com.google.guava\:guava\:pom\:11.0.2 from/to glassfish-repo-archive.repo (https\://mvnrepository.com/artifact/org.glassfish/javax.el/)\: Access denied to\: https\://mvnrepository.com/artifact/org.glassfish/javax.el/com/google/guava/guava/11.0.2/guava-11.0.2.pom , ReasonPhrase\:Forbidden.
+file\:///root/impala-3.4/toolchain/kudu-4ed0dbbd1/java/repository/.error=
+https\://repository.cloudera.com/content/repositories/releases/.error=
+https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/.error=Could not transfer artifact com.google.guava\:guava\:pom\:11.0.2 from/to impala.cdh.repo (https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven)\: Access denied to\: https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/com/google/guava/guava/11.0.2/guava-11.0.2.pom , ReasonPhrase\:Forbidden.
+https\://repository.cloudera.com/content/repositories/releases/.lastUpdated=1602992501083
+@default-impala.cdh.repo-https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/.lastUpdated=1602992501370
+@default-impala.cdp.repo-https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven/.lastUpdated=1602992501147
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1602992501459
+file\:///root/impala-3.4/toolchain/kudu-4ed0dbbd1/java/repository/.lastUpdated=1602992501372
+@default-glassfish-repo-archive.repo-https\://mvnrepository.com/artifact/org.glassfish/javax.el/.lastUpdated=1602992500964
+https\://repository.cloudera.com/content/repositories/third-party/.error=

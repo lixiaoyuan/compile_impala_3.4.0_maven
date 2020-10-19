@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 08:41:00 UTC 2020
+parser-circusconf-1.6-cdh.pom>=
+parser-circusconf-1.6-cdh-tests.jar>=
+parser-circusconf-1.6-cdh.jar>=

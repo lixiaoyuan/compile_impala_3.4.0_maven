@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 08:38:07 UTC 2020
+corejava-z-1.6-cdh.jar>=
+corejava-z-1.6-cdh.pom>=
+corejava-z-1.6-cdh-tests.jar>=

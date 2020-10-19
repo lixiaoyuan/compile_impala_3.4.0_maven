@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.sourceforge.czt.dev</groupId>
+  <artifactId>java-cup-runtime</artifactId>
+  <versioning>
+    <release>0.11-a-czt01-cdh</release>
+    <versions>
+      <version>0.11-a-czt01-SNAPSHOT</version>
+      <version>0.11-a-czt01-cdh</version>
+    </versions>
+    <lastUpdated>20201018083737</lastUpdated>
+  </versioning>
+</metadata>

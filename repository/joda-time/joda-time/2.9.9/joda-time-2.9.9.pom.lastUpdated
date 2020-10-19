@@ -1,0 +1,17 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 03:43:11 UTC 2020
+https\://repository.cloudera.com/content/repositories/third-party/.lastUpdated=1602992591537
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.lastUpdated=1602992590977
+https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven/.error=Could not transfer artifact joda-time\:joda-time\:pom\:2.9.9 from/to impala.cdp.repo (https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven)\: Access denied to\: https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven/joda-time/joda-time/2.9.9/joda-time-2.9.9.pom , ReasonPhrase\:Forbidden.
+https\://mvnrepository.com/artifact/org.glassfish/javax.el/.error=Could not transfer artifact joda-time\:joda-time\:pom\:2.9.9 from/to glassfish-repo-archive.repo (https\://mvnrepository.com/artifact/org.glassfish/javax.el/)\: Access denied to\: https\://mvnrepository.com/artifact/org.glassfish/javax.el/joda-time/joda-time/2.9.9/joda-time-2.9.9.pom , ReasonPhrase\:Forbidden.
+file\:///root/impala-3.4/toolchain/kudu-4ed0dbbd1/java/repository/.error=
+https\://repository.cloudera.com/content/repositories/releases/.error=
+https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/.error=Could not transfer artifact joda-time\:joda-time\:pom\:2.9.9 from/to impala.cdh.repo (https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven)\: Access denied to\: https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/joda-time/joda-time/2.9.9/joda-time-2.9.9.pom , ReasonPhrase\:Forbidden.
+https\://repository.cloudera.com/content/repositories/releases/.lastUpdated=1602992591044
+@default-impala.cdh.repo-https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/.lastUpdated=1602992591476
+@default-impala.cdp.repo-https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven/.lastUpdated=1602992591261
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1602992591572
+file\:///root/impala-3.4/toolchain/kudu-4ed0dbbd1/java/repository/.lastUpdated=1602992591478
+@default-glassfish-repo-archive.repo-https\://mvnrepository.com/artifact/org.glassfish/javax.el/.lastUpdated=1602992590917
+https\://repository.cloudera.com/content/repositories/third-party/.error=

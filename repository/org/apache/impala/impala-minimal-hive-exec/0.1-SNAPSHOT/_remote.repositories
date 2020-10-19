@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 11:34:31 UTC 2020
+impala-minimal-hive-exec-0.1-SNAPSHOT.jar>=
+impala-minimal-hive-exec-0.1-SNAPSHOT.pom>=

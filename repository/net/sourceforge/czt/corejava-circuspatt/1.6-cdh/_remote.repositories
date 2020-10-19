@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 08:39:09 UTC 2020
+corejava-circuspatt-1.6-cdh.pom>=
+corejava-circuspatt-1.6-cdh.jar>=
+corejava-circuspatt-1.6-cdh-tests.jar>=

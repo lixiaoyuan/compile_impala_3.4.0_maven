@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.sourceforge.czt</groupId>
+  <artifactId>czt-parent</artifactId>
+  <versioning>
+    <release>1.6-cdh</release>
+    <versions>
+      <version>1.6-SNAPSHOT</version>
+      <version>1.6-cdh</version>
+    </versions>
+    <lastUpdated>20201018083732</lastUpdated>
+  </versioning>
+</metadata>

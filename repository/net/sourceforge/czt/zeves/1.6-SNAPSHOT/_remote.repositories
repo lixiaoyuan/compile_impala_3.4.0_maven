@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 06:30:34 UTC 2020
+zeves-1.6-SNAPSHOT.pom>=
+zeves-1.6-SNAPSHOT.jar>=
+zeves-1.6-SNAPSHOT-tests.jar>=

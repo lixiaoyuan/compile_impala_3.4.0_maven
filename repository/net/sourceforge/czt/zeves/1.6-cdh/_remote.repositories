@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 08:42:05 UTC 2020
+zeves-1.6-cdh.jar>=
+zeves-1.6-cdh.pom>=
+zeves-1.6-cdh-tests.jar>=

@@ -1,0 +1,25 @@
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.hadoop</groupId>
+  <artifactId>hadoop-project-dist</artifactId>
+  <version>3.0.0-cdh6.x-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200124.113558</timestamp>
+      <buildNumber>1814051</buildNumber>
+    </snapshot>
+    <lastUpdated>20200124113558</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.0.0-cdh6.x-20200124.113558-1814051</value>
+        <updated>20200124113558</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>tests</classifier>
+        <extension>jar</extension>
+        <value>3.0.0-cdh6.x-20200124.113558-1814051</value>
+        <updated>20200124113558</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

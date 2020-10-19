@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 06:30:17 UTC 2020
+z2b-1.6-SNAPSHOT.jar>=
+z2b-1.6-SNAPSHOT-tests.jar>=
+z2b-1.6-SNAPSHOT.pom>=

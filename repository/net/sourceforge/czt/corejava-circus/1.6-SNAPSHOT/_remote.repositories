@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 06:27:29 UTC 2020
+corejava-circus-1.6-SNAPSHOT.jar>=
+corejava-circus-1.6-SNAPSHOT.pom>=
+corejava-circus-1.6-SNAPSHOT-tests.jar>=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 08:42:08 UTC 2020
+ui-1.6-cdh.jar>=
+ui-1.6-cdh.pom>=
+ui-1.6-cdh-tests.jar>=
+ui-1.6-cdh-jar-with-dependencies.jar>=

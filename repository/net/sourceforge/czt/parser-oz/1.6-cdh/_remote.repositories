@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 08:40:31 UTC 2020
+parser-oz-1.6-cdh.jar>=
+parser-oz-1.6-cdh.pom>=
+parser-oz-1.6-cdh-tests.jar>=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 06:30:39 UTC 2020
+ui-1.6-SNAPSHOT.pom>=
+ui-1.6-SNAPSHOT-tests.jar>=
+ui-1.6-SNAPSHOT-jar-with-dependencies.jar>=
+ui-1.6-SNAPSHOT.jar>=

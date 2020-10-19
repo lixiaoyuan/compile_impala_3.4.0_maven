@@ -1,0 +1,23 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 03:44:41 UTC 2020
+https\://repository.cloudera.com/content/repositories/third-party/.lastUpdated=1602992681760
+file\:///root/impala-3.4/toolchain/kudu-4ed0dbbd1/java/repository/.lastUpdated=1602992680268
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.error=
+https\://repository.cloudera.com/content/repositories/releases/.error=
+http\://www.datanucleus.org/downloads/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1602992680415
+https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/.error=Could not transfer artifact org.codehaus.jackson\:jackson-core-asl\:pom\:1.9.13-cloudera.1 from/to impala.cdh.repo (https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven)\: Access denied to\: https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/org/codehaus/jackson/jackson-core-asl/1.9.13-cloudera.1/jackson-core-asl-1.9.13-cloudera.1.pom , ReasonPhrase\:Forbidden.
+https\://mvnrepository.com/artifact/org.glassfish/javax.el/.error=Could not transfer artifact org.codehaus.jackson\:jackson-core-asl\:pom\:1.9.13-cloudera.1 from/to glassfish-repo-archive.repo (https\://mvnrepository.com/artifact/org.glassfish/javax.el/)\: Access denied to\: https\://mvnrepository.com/artifact/org.glassfish/javax.el/org/codehaus/jackson/jackson-core-asl/1.9.13-cloudera.1/jackson-core-asl-1.9.13-cloudera.1.pom , ReasonPhrase\:Forbidden.
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.lastUpdated=1602992679772
+@default-glassfish-repo-archive.repo-https\://mvnrepository.com/artifact/org.glassfish/javax.el/.lastUpdated=1602992679754
+https\://repo.maven.apache.org/maven2/.error=
+http\://download.java.net/maven/2/.lastUpdated=1602992681700
+http\://download.java.net/maven/2/.error=
+https\://repository.cloudera.com/content/repositories/releases/.lastUpdated=1602992679832
+@default-impala.cdh.repo-https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/.lastUpdated=1602992680266
+@default-impala.cdp.repo-https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven/.lastUpdated=1602992680047
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1602992681854
+https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven/.error=Could not transfer artifact org.codehaus.jackson\:jackson-core-asl\:pom\:1.9.13-cloudera.1 from/to impala.cdp.repo (https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven)\: Access denied to\: https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven/org/codehaus/jackson/jackson-core-asl/1.9.13-cloudera.1/jackson-core-asl-1.9.13-cloudera.1.pom , ReasonPhrase\:Forbidden.
+file\:///root/impala-3.4/toolchain/kudu-4ed0dbbd1/java/repository/.error=
+https\://repository.cloudera.com/content/repositories/third-party/.error=
+http\://www.datanucleus.org/downloads/maven2/.lastUpdated=1602992680828

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 03:44:32 UTC 2020
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.error=
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.lastUpdated=1602992672111
+https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/.lastUpdated=1602992672277

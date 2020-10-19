@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 08:37:39 UTC 2020
+util-1.6-cdh.jar>=
+util-1.6-cdh.pom>=
+util-1.6-cdh-tests.jar>=

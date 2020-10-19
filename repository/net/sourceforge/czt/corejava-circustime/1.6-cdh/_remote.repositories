@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 08:39:16 UTC 2020
+corejava-circustime-1.6-cdh.jar>=
+corejava-circustime-1.6-cdh.pom>=
+corejava-circustime-1.6-cdh-tests.jar>=

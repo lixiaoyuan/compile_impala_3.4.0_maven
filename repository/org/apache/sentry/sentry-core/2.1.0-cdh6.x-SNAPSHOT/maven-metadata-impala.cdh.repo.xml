@@ -1,0 +1,19 @@
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.sentry</groupId>
+  <artifactId>sentry-core</artifactId>
+  <version>2.1.0-cdh6.x-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200124.115947</timestamp>
+      <buildNumber>1814051</buildNumber>
+    </snapshot>
+    <lastUpdated>20200124115947</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.1.0-cdh6.x-20200124.115947-1814051</value>
+        <updated>20200124115947</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

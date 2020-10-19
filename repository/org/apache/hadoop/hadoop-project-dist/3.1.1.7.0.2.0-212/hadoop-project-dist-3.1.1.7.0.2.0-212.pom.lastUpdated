@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 08:04:51 UTC 2020
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.lastUpdated=1603008291041
+https\://maven.aliyun.com/repository/spring/.lastUpdated=1603008290932
+https\://mvnrepository.com/artifact/org.glassfish/javax.el/.error=Could not transfer artifact org.apache.hadoop\:hadoop-project-dist\:pom\:3.1.1.7.0.2.0-212 from/to glassfish-repo-archive.repo (https\://mvnrepository.com/artifact/org.glassfish/javax.el/)\: Access denied to\: https\://mvnrepository.com/artifact/org.glassfish/javax.el/org/apache/hadoop/hadoop-project-dist/3.1.1.7.0.2.0-212/hadoop-project-dist-3.1.1.7.0.2.0-212.pom , ReasonPhrase\:Forbidden.
+https\://repository.cloudera.com/content/repositories/releases/.error=
+https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven/.lastUpdated=1603008291705
+https\://repository.cloudera.com/content/repositories/releases/.lastUpdated=1603008291101
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.error=
+https\://maven.aliyun.com/repository/spring/.error=
+@default-glassfish-repo-archive.repo-https\://mvnrepository.com/artifact/org.glassfish/javax.el/.lastUpdated=1603008290975

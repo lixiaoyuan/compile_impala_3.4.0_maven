@@ -1,0 +1,20 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 08:25:10 UTC 2020
+https\://repository.cloudera.com/content/repositories/third-party/.lastUpdated=1603009509788
+file\:///root/impala-3.4/toolchain/kudu-4ed0dbbd1/java/repository/.lastUpdated=1603009509544
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.error=
+https\://repository.cloudera.com/content/repositories/releases/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1603009510363
+https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/.error=Could not transfer artifact net.sourceforge.czt.dev\:java-cup\:jar\:0.11-a-czt02-cdh from/to impala.cdh.repo (https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven)\: Access denied to\: https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/net/sourceforge/czt/dev/java-cup/0.11-a-czt02-cdh/java-cup-0.11-a-czt02-cdh.jar , ReasonPhrase\:Forbidden.
+https\://mvnrepository.com/artifact/org.glassfish/javax.el/.error=Could not transfer artifact net.sourceforge.czt.dev\:java-cup\:jar\:0.11-a-czt02-cdh from/to glassfish-repo-archive.repo (https\://mvnrepository.com/artifact/org.glassfish/javax.el/)\: Access denied to\: https\://mvnrepository.com/artifact/org.glassfish/javax.el/net/sourceforge/czt/dev/java-cup/0.11-a-czt02-cdh/java-cup-0.11-a-czt02-cdh.jar , ReasonPhrase\:Forbidden.
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.lastUpdated=1603009506968
+@default-glassfish-repo-archive.repo-https\://mvnrepository.com/artifact/org.glassfish/javax.el/.lastUpdated=1603009506618
+https\://maven.aliyun.com/repository/spring/.error=
+https\://repo.maven.apache.org/maven2/.error=
+https\://repository.cloudera.com/content/repositories/releases/.lastUpdated=1603009507223
+@default-impala.cdh.repo-https\://native-toolchain.s3.amazonaws.com/build/cdh_components/1814051/maven/.lastUpdated=1603009509379
+https\://maven.aliyun.com/repository/spring/.lastUpdated=1603009506201
+@default-impala.cdp.repo-https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven/.lastUpdated=1603009508486
+https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven/.error=Could not transfer artifact net.sourceforge.czt.dev\:java-cup\:jar\:0.11-a-czt02-cdh from/to impala.cdp.repo (https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven)\: Access denied to\: https\://native-toolchain.s3.amazonaws.com/build/cdp_components/1617729/maven/net/sourceforge/czt/dev/java-cup/0.11-a-czt02-cdh/java-cup-0.11-a-czt02-cdh.jar , ReasonPhrase\:Forbidden.
+https\://repository.cloudera.com/content/repositories/third-party/.error=
+file\:///root/impala-3.4/toolchain/kudu-4ed0dbbd1/java/repository/.error=

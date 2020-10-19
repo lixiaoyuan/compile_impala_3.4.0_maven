@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 18 06:29:48 UTC 2020
+typechecker-oz-1.6-SNAPSHOT-tests.jar>=
+typechecker-oz-1.6-SNAPSHOT.jar>=
+typechecker-oz-1.6-SNAPSHOT.pom>=
